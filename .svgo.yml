@@ -64,6 +64,7 @@ plugins:
   - removeScriptElement
   - addAttributesToSVGElement
   - removeOffCanvasPaths
+  - removeUse
   - reusePaths
 
 # configure the indent (default 4 spaces) used by `--pretty` here:
